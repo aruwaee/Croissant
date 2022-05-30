@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  max-width: 800px;
+  padding-top: 30px;
+}
+a {
+  color: green;
+}
+.email-link {
+  color: blue;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 15px;
+}
+img {
+  border-radius: 4px;
+  display: block;
+  padding: 50px;
+}
